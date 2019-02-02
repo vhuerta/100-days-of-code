@@ -8,6 +8,14 @@ I Plan to work on my abandoned apointments system (plan make grow in a Clinical 
 
 **Today's Progress**
 
+Resumed my work in the GraphQL Api of my project
 
+- ✔︎ Configured test with mocha, should and nyc for coverage
+- ✔︎ First test specs, 
+- ✔︎ Configured CircleCI to run the tests
+- ✔︎ Configure Codecov to get test coverage reports
   
 **Thoughts:** 
+
+Need to configure deploy step in circleci to put this at heroku or similar, the amount of files that are cover by my tests sucks need to add much more tests
+
